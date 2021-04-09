@@ -1,6 +1,5 @@
 *.jar
 build/
 gradle/
-gradlew*
 log/
 *.wav
